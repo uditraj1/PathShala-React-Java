@@ -1,0 +1,5 @@
+export const USER_TYPES = {
+  STUDENT: "STUDENT",
+  INSTRUCTOR: "INSTRUCTOR",
+  ADMIN: "ADMIN",
+};
