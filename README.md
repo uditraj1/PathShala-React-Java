@@ -1,6 +1,6 @@
 # React  and Java E Learning Management System 
 
-React frontend and Java Spring Boot based backend, web application developed by 5 group members including me. 
+React frontend and Java Spring Boot based backend, web application. 
 
 # Features
 
